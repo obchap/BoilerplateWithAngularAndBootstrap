@@ -1,0 +1,14 @@
+{
+  "name": "Template",
+  "version": "0.0.1",
+  "main": "index.html",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.2.15",
+    "bootstrap": "~3.1.1"
+  }
+}
